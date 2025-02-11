@@ -71,8 +71,6 @@
 						<!--
 						<suiteXmlFile>TestNGxmls/testng.xml</suiteXmlFile>   -->
 						<suiteXmlFile>${suiteFile}</suiteXmlFile>
-						
-
 					</suiteXmlFiles>
 				</configuration>
 
