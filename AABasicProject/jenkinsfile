@@ -18,6 +18,7 @@ stage('test'){
 steps{
  echo "hi testing"
  bat "mvn test -f ./AABasicProject/pom.xml -DsuiteFile=TestNGxmls/${suite}"
+echo "ri"
 }
 }
 
